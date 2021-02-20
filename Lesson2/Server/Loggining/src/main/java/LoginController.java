@@ -1,5 +1,7 @@
 import java.sql.*;
 
+//данный файл не относится к ДЗ, был создан для проверки данных в БД
+
 public class LoginController {
     public static void main(String[] args) throws Exception {
        Class.forName("org.sqlite.JDBC");
